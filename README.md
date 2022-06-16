@@ -24,8 +24,8 @@ This is a project challenge font frontend mentor It was a little challeging as a
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: (https://ednsika.github.io/Barcode-Landing-Page/))
+- Live Site URL:(https://ednsika.github.io/Barcode-Landing-Page/)
 
 ### Built with
 
