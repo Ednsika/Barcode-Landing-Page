@@ -49,7 +49,7 @@ To see how you can add code snippets, see below:
 
 ### Continued development
 
-Need to work more on using <div> and centring them. i dont think I go the media query quite correctly lol. Need to work on that too
+Need to work more on using  div and centring them. i dont think I go the media query quite correctly lol. Need to work on that too
 
 
 
